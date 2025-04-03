@@ -1,3 +1,9 @@
-## Hi there 👋
+# Hi there 👋, I'm 小新!
+🚀 Full Stack Developer | 🌱 Open Source Enthusiast
 
-[![mmdxiaoxin's GitHub | Topics Over Time](https://stats.quira.sh/mmdxiaoxin/topics-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=mmdxiaoxin)
+![mmdxiaoxin GitHub stats](https://github-readme-stats.vercel.app/api?username=mmdxiaoxin&show_icons=true&theme=radical)
+
+### ⚡ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
