@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmdxiaoxin&show_icons=true&theme=radical" alt="mmdxiaoxin GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmdxiaoxin&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
 ---
@@ -46,29 +46,29 @@
 
 ### 📌 Projects & Contributions
 
-- 🌱 构建了一个面向农作物病害智能诊断的系统，融合前后端分离、微服务与AI推理服务  
-- ⚙️ 创建了基于NestJS + TypeORM的企业级服务模板，适用于中大型应用  
-- 📦 参与多个开源项目，热衷于性能优化与架构设计  
+- 🌱 构建面向农作物病害的智能诊断系统，集成微服务 + AI推理模块  
+- ⚙️ 封装通用的全栈项目模板，支持模块热插拔与环境配置分离  
+- 📦 热衷开源，喜欢优化 DevOps 流程与工程架构设计  
 
 ---
 
-### 📈 Stats & Activities
+### 📈 Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdxiaoxin&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdxiaoxin&layout=compact&theme=default"/>
 </p>
 
 ---
 
 ### ✨ About Me
 
-- 🔭 I’m currently working on full-stack solutions involving AI services, complex data management and scalable systems
-- 🌱 Always learning: Microservices, System Design, Distributed Systems
-- 💬 Ask me about anything related to TypeScript, React, or backend systems
-- 📫 Reach me via [email](mailto:youremail@example.com) or [my blog](https://yourblog.com)
+- 🔭 当前关注多模型集成、消息队列调度、高并发接口优化  
+- 🌱 学习方向包括微服务架构、Serverless、分布式系统  
+- 💬 欢迎交流前端工程化、数据库设计、NestJS 深度实践  
+- 📫 联系我：[邮箱](mailto:youremail@example.com)｜[博客](https://yourblog.com)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>xiaoxin</strong> — Powered by curiosity and caffeine ☕
+  Crafted with ❤️ by <strong>Xiaoxin</strong> | Powered by passion & code
 </p>
